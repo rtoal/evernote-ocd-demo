@@ -1,9 +1,9 @@
 {
-  "name": "evernote-ocd-demo",
+  "name": "evernote-ocr-demo",
   "version": "1.0.0",
   "description": "A demo",
   "main": "index.js",
-  "repository": "git@github.com:rtoal/evernote-ocd-demo.git",
+  "repository": "git@github.com:rtoal/evernote-ocr-demo.git",
   "author": "Ray Toal <rtoal@lmu.edu>",
   "license": "MIT",
   "dependencies": {
